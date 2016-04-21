@@ -10,6 +10,9 @@
   "license": "GPL-3.0",
   "dependencies": {
     "body-parser": "^1.15.0",
-    "express": "^4.13.4"
+    "camo": "^0.12.1",
+    "express": "^4.13.4",
+    "jade": "^1.11.0",
+    "nedb": "^1.8.0"
   }
 }
